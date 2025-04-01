@@ -39,7 +39,7 @@
   expansion=true
 }
 
-\usepackage{ragged2e}
+\RequirePackage{ragged2e}
 \RaggedRight
 
 \setlength{\parindent}{2em}
