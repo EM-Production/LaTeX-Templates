@@ -196,11 +196,9 @@
 
 \setlist[enumerate]{label=\arabic*., label*=\arabic*.,labelsep=0.7em}
 \setlist[enumerate,1]{leftmargin=*,topsep=6.3pt plus 0.5ex minus 0.1ex}
-\setlist[enumerate,2]{leftmargin=*}
 
 \setlist[itemize]{labelsep=1em}
 \setlist[itemize,1]{leftmargin=*,topsep=6.3pt plus 0.5ex minus 0.1ex}
-\setlist[itemize,2]{leftmargin=*}
 
 \setlist[description]{font=\normalfont\itshape,topsep=6.3pt plus 0.5ex minus 0.1ex,leftmargin=1.5em}
 
